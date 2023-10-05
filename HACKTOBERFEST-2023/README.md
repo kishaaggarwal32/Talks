@@ -1,8 +1,8 @@
 # Hacktoberfest 2023 College Event
 
-![Hacktoberfest Banner](IMG/banner.jpg)
+![Hacktoberfest Banner](IMG/banner.jpeg)
 
-Welcome to the Hacktoberfest 2023 College Event repository! In this README, we'll provide an overview of the event, its purpose, and the topics that will be covered during the talks.
+Welcome to the [Hacktoberfest 2023](https://hacktoberfest.com/) College Event repository! In this README, we'll provide an overview of the event, its purpose, and the topics that will be covered during the talks.
 
 ## Why is the Event Being Conducted?
 
@@ -37,6 +37,10 @@ Welcome to the Hacktoberfest 2023 College Event repository! In this README, we'l
 ### 7. What It Is Not About
 
 - **Misconceptions**: Hacktoberfest is not about spamming repositories with low-quality contributions. It's about meaningful contributions that add value to open source projects.
+
+### 8. Rules of HacktoberFest 2023
+
+- **Rules**: [Participation Rules](https://hacktoberfest.com/participation/)
 
 ## Join Us!
 
